@@ -41,7 +41,7 @@ This is a beginner-friendly project focused on DOM manipulation and interactive 
 
 ## 📷 Preview
 
-![Register Panel Screenshot](https://i.imgur.com/UkeDuyM.png)
+![App Preview](./preview.png)
 
 ---
 
